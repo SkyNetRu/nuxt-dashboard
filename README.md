@@ -1,4 +1,4 @@
-# nuxt-vietify
+# nuxt-dashboard
 
 > Nuxt.js project
 
