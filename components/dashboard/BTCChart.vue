@@ -10,7 +10,7 @@
     props: ['chartData'],
     data() {
       return {
-        
+
       }
     },
 
