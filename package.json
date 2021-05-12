@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.10.3",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "nuxt": "^2.0.0",
     "vue-chartjs": "^3.5.0"
   },
